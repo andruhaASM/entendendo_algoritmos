@@ -1,5 +1,6 @@
 # Entendendo algoritmos
-Estudo e exercicios do livro "Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos"
+Estudo e exercicios do livro "Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos".
+Link para baixar o livro está [aqui](https://drive.google.com/open?id=1LXGg3ElEyOIvmA1ZK9LMbv9dJB_JhvB2).
 
 ## Estrutura do repositório
 A estrutura de diretórios do repositório segue a estrutura do sumário do próprio livro. Cada dirétorio vai ter o nóme do capítulo, por exemplo `introducao_a_algoritmos` ou então `ordenacao_por_selecao`.
@@ -40,5 +41,7 @@ Veja a árvore de diretórios:
 
 ## Sugestão de uso desse repositório
 
-Faça um `fork` desse repositório e segue o livro. O próprio autor do livro recomenda você implementar todos os algoritmos propostos e resolver os problemas listados no final de cada capítulo.
+Faça um `fork` desse repositório e segue o livro. Sugestão: a cada capítulo que você ler e cada conjunto de exercícios que você resolver, faz o commit para o respectivo diretório. Por exemplo, se você estudou Quicksort, então faça os exercícios e faz o commit para `main/quicksort/src`.
+
+O próprio autor do livro recomenda você implementar todos os algoritmos propostos e resolver os problemas listados no final de cada capítulo.
 
